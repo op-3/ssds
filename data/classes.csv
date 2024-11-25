@@ -1,0 +1,4 @@
+class_id,course_id,capacity,time_slot
+MATH201-A,MATH201,5,Sun-Tue 8:00-9:20
+MATH201-B,MATH201,5,Sun-Tue 9:30-10:50
+MATH201-C,MATH201,5,Mon-Wed 8:00-9:20
